@@ -1,0 +1,14 @@
+node_modules
+
+/src/audio
+/17890274e693f41a57cee6de31f89a68.mp3
+/2481bfa3f2f83a7ed5e992f3b346c1fe.mp3
+/c9c2cde0d1475fc0dc340480c4111d5a.mp3
+
+# testing
+coverage
+
+# misc
+.DS_Store
+.env
+npm-debug.log
